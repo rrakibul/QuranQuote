@@ -1,0 +1,17 @@
+{
+    "name": "mri/quran-quote",
+    "autoload": {
+        "psr-4": {
+            "MRI\\QuranQuote\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Rakibul Islam",
+            "email": "mricoder@gmail.com"
+        }
+    ],
+    "require": {
+        "../../../vendor/guzzlehttp/guzzle": "^7.0.1"
+    }
+}
