@@ -5,6 +5,8 @@
             "MRI\\QuranQuote\\": "src/"
         }
     },
+    minimum-stability: dev,
+    prefer-stable: true,
     "authors": [
         {
             "name": "Mohammad Rakibul Islam",
