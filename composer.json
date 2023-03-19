@@ -1,5 +1,5 @@
 {
-    "name": "mri/quran-quote",
+    "name": "rrakibul/quranquote",
     "autoload": {
         "psr-4": {
             "MRI\\QuranQuote\\": "src/"
